@@ -1,5 +1,4 @@
 <?php
-// INSERT INTO `phonebook` (`id`, `name`, `email`, `number`) VALUES ('1', 'Hamza', 'juanidhamza4@gmail.com', '03312554581');
 // echo "connecting to a database <br>";
 
 $server = "127.0.0.1:3307";
